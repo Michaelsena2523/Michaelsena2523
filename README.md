@@ -1,5 +1,5 @@
 
-<p align="center" > <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+page;I+hope+you+like+some+of+my+repository" alt="Typing SVG" /></a> </p>
+<p align="center" ><a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+page+MS" alt="Typing SVG" /></a></p>
 
 <h1 align="center">Hi 👋, I'm <a href="https://michaelsena2523.github.io/Portafolioweb.github.io/" target="blank">
 Michaelsena</a><br>
