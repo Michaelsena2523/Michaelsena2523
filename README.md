@@ -17,8 +17,11 @@ Michaelsena</a><br>
 
 <P align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=16E6FF&center=verdadero&vCenter=verdadero&repeat=verdadero&random=verdadero&width=435&lines=Hello%2C+welcome+to+my+GitHub+Page;Here+you+will+find+a+repository+with+work+that+I+did" alt="Typing SVG" /></a> </P>
 
-<h1 align="center">Más información sobre mí <br>
+<h1 align="center">More information about me<br>
   <a href="" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" </a>
   <a href="" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" </a>
     
 </h1>
+
+
+<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
