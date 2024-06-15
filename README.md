@@ -15,7 +15,7 @@ Frond-End Developer<br>
     <img width="20" />
   </div><br>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+page;I+hope+you+like+some+of+my+repository" alt="Typing SVG" /></a>
+ <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+page;I+hope+you+like+some+of+my+repository" alt="Typing SVG" /></a>
 
 </h1>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+page;I+hope+you+like+some+of+my+repository" 
